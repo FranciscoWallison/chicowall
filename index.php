@@ -8,12 +8,7 @@
 
 <body>
 
-    <?php
-    
-        echo 'db!';
-        
-        echo 'Olá Alunos!';
-    ?>
+ <a href="https://discord.gg/d6JmWEwh"> discord </a>
 
 </body>
 
