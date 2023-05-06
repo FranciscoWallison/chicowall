@@ -3,13 +3,16 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Chico wall</title>
+    <title>Chico wallidon</title>
 </head>
 
 <body>
 
     <?php
-        echo 'Olá mundo!';
+    
+        echo 'db!';
+        
+        echo 'Olá Alunos!';
     ?>
 
 </body>
