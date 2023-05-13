@@ -3,15 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Chico wall</title>
+    <title>Chico wallison</title>
 </head>
 
 <body>
-
-    <?php
-        echo 'Olá mundo';
-    ?>
-
+<h1> Olá mundo !</h1>
 </body>
 
 </html>
